@@ -57,6 +57,8 @@ const dev = {
 ### Personal & Open Source
 ...
 ### Academic & Professional
+-  📱 **[joinMe](https://github.com/SWENT-team09-2025/joinMe)**  A social activity platform for spontaneous sports & activities. `Kotlin` `Android` `Firebase`
+          -> [⬇️ Download APK](https://github.com/vlonfat/vlonfat/releases/download/v1.0.0/app-release.apk)
 ...
 
 ---
