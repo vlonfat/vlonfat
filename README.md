@@ -52,7 +52,7 @@ const dev = {
 
 > Click on a project to explore it!
 ### Known Fixes
-...
+> Documented fixes for common issues I've encountered: **[See all fixes](https://github.com/vlonfat/known-fixes)**
 
 ### Personal & Open Source
 ...
