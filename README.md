@@ -58,6 +58,8 @@ const dev = {
 - 📄 **[myFriendPdf](https://github.com/vlonfat/myFriendPDF)** — A simple desktop app to manipulate PDF files.
   - → [⬇️ Download APP](https://github.com/vlonfat/myFriendPDF/releases)
 
+- **[MSL](https://github.com/vlonfat/msl)** - A small Linux environment for Mac in Docker, inspired by WSL 2
+
 ### Academic & Professional
 - 📱 **[joinMe](https://github.com/SWENT-team09-2025/joinMe)** — A social activity platform for spontaneous sports & activities. `Kotlin` `Android` `Firebase`
   - → [⬇️ Download APK](https://github.com/vlonfat/vlonfat/releases/download/v1.0.0/app-release.apk)
